@@ -73,7 +73,7 @@ typings/
 .idea/modules.xml
 .idea/preferred-vcs.xml
 .idea/vcs.xml
-/.idea/react-webpack-babel-boilerplate.iml
+.idea/react-webpack-babel-boilerplate.iml
 .idea/**/tasks.xml
 .idea/dictionaries
 
